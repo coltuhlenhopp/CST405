@@ -1,9 +1,0 @@
-int x;
-int h;
-int g;
-h = 2;
-g = 3;
-x = h + 7;
-h = x + h + g;
-write x;
-write h;
